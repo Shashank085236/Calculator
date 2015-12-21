@@ -9,5 +9,5 @@ This is version 1 of calculator implemented with just 4 basic calculation operat
 
 Known issues:
 
-1. press to = is must to get result
+1. pressing '=' key is must to get result
 2. multiple key press is  not handled
