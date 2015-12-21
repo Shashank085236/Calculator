@@ -1,0 +1,39 @@
+body {
+    font-size: 30px;
+    background: rgba(237,237,237,1);
+    font-family: Arial;
+}
+.calculator {
+    margin: 100px auto;
+    width: 260px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #05013f;
+}
+input {
+    width: 240px;
+    margin: 5px 11px 10px 11px;
+    display: block;
+    font-size: 36px;
+}
+.btn {
+    float: left;
+    width: 25px;
+    padding: 5px 15px;
+    margin: 4px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+}
+.number{
+    background-color: #eee;
+}
+.action{
+    background-color: #aaa;
+}
+.btn:hover{
+    background-color: #bbb;
+}
+.clearfix {
+    clear: both;
+}
